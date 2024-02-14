@@ -101,6 +101,9 @@ body {
     text-align: center;
     color: #2e2f42;
 }
+.team-li {
+    background: #fff;
+}
 .team-item {
     font-weight: 500;
     font-size: 20px;
